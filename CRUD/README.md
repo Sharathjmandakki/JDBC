@@ -1,4 +1,4 @@
-doing crud operation with out taking input from user (Hard-Code)🧑‍💻
+doing crud operation with out taking input from user [Hard-Code]🧑‍💻
 
 #Program 6 => Loading mysql jdbc driver <br> 
 #Program 6 => Creating employee table <br> 
