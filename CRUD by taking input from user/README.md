@@ -1,4 +1,4 @@
-doing crud operation by taking input from user🧑‍💻
+doing crud operation by taking input from user 🧑‍💻
 
 #Program 1 => Select (Display) data <br> 
 #Program 2 => Insert data (Single row at a time) <br> 
