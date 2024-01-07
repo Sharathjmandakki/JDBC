@@ -12,7 +12,7 @@ public class Program1 {
 			Connection con = DriverManager.getConnection(url, user, pass);
 			PreparedStatement pstmt = con.prepareStatement(query);
 			Scanner sc = new Scanner(System.in);
-			System.out.println("enter the primary key  column name ");
+			System.out.println("enter the primary key ");
 			String column = sc.next();
 			pstmt.setString(1, column);			
 			ResultSet rs = pstmt.executeQuery();
